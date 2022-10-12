@@ -1,0 +1,5 @@
+beautifulsoup4==4.11.1
+ckiptagger==0.2.1
+requests==2.24.0
+snownlp==0.12.3
+streamlit==1.12.2
